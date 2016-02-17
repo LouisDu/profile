@@ -1,0 +1,94 @@
+body {
+  background-image: url("https://farm4.staticflickr.com/3261/2548479781_b8bc744dca_o_d.jpg");
+  font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  color: #FFFFFF;
+  margin: 1em;
+  text-align: center
+}
+
+h1 {
+  letter-spacing: 0.5em;
+}
+a:hover {
+  color: black;
+}
+
+#first_img {
+  height: 10em;
+  width: 10em;
+  border-radius: 50em;
+  margin-bottom: 2em;
+  float: right;
+  margin-top: 2.2em;
+  margin-right: 2em;
+}
+
+table {
+  text-align: center;
+  margin-left: 17em;
+  border: 0.3em solid white;
+}
+
+td {
+  border: 0.2em dotted white;
+  height: 10em;
+  width: 20em;
+}
+
+.increase_margin {
+  margin: 3em 0em 3em 0em;
+  border: 0.2em solid white;
+  height: 6em;
+  width: 10em;
+  margin-left: 33em;
+  border-radius: 5em;
+  border-color: black;
+  background-color: #D7E530;
+  color: black;
+  font-weight: bold;
+}
+
+.low_gap {
+  margin: 0.2em;
+}
+
+.border_title{
+  border: 0.2em solid white;
+  border-color: #D7E530;
+  clear: left;
+}
+
+.size_into_table{
+  height: 10em;
+  width: 10em;
+}
+
+#fixed_position{
+  position: fixed;
+  border: 0.3em solid #D7E530;
+  text-align: center;
+  background-color: #D7E530;
+}
+
+.inline{
+  display:inline-block;
+  margin: 0em 6.54em 0em 6.54em;
+  color: #C77647;
+  text-align: center;
+  text-decoration: none;
+}
+
+#form{
+  margin-top: 3em;
+}
+
+.input{
+  display: inline-block;
+  margin: 1.5em;
+  margin-left: 50em;
+}
+
+label {
+  display: inline-block;
+}
+
